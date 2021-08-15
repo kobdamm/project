@@ -1,0 +1,88 @@
+ids,labels,parents
+Winey-Tart,Tart,Sour-Winey
+Winey-Tangy,Tangy,Sour-Winey
+Feb-14,14,NLR-Feb
+Feb-13,13,NLR-Feb
+Vanilla-like-Swiss,Swiss,Chocolatey-Vanilla-like
+Vanilla-like-Butter,Butter,Chocolatey-Vanilla-like
+Turpeny-Piney,Piney,Resinous-Turpeny
+Turpeny-Blackcurrant-like,Blackcurrant-like,Resinous-Turpeny
+Syrup-like-Maple Syrup,Maple Syrup,Carmelly-Syrup-like
+Syrup-like-Honey,Honey,Carmelly-Syrup-like
+Sweet-Mellow,Mellow,
+Sweet-Acidy,Acidy,
+Sugar Browning-Nutty,Nutty,
+Sugar Browning-Chocolatey,Chocolatey,
+Sugar Browning-Carmelly,Carmelly,
+Soury-Hard,Hard,Sour-Soury
+Soury-Acrid,Acrid,Sour-Soury
+Sour-Winey,Winey,
+Sour-Soury,Soury,
+Smokey-Tarry,Tarry,Carbony-Smokey
+Smokey-Pipe Tobacco,Pipe Tobacco,Carbony-Smokey
+Sharp-Rough,Rough,Salt-Sharp
+Sharp-Astringent,Astringent,Salt-Sharp
+Salt-Sharp,Sharp,
+Salt-Bland,Bland,
+Resinous-Turpeny,Turpeny,Dry Distillation-Resinous
+Resinous-Medicinal,Medicinal,Dry Distillation-Resinous
+Nutty-Nut-like,Nut-like,Sugar Browning-Nutty
+Nutty-Malt-like,Malt-like,Sugar Browning-Nutty
+Nut-like-Walnuts,Walnuts,Nutty-Nut-like
+Nut-like-Roasted Peanuts,Roasted Peanuts,Nutty-Nut-like
+NLR-Feb,Feb,Dry Distillation-NLR
+NLR-Jan,Jan,Dry Distillation-NLR
+Mellow-Mild,Mild,Sweet-Mellow
+Mellow-Delicate,Delicate,Sweet-Mellow
+Medicinal-Cineolic,Cineolic,Resinous-Medicinal
+Medicinal-Camphoric,Camphoric,Resinous-Medicinal
+Malt-like-Toast,Toast,Nutty-Malt-like
+Malt-like-Balsamic Rice,Balsamic Rice,Nutty-Malt-like
+Leguminous-Garden Peas,Garden Peas,Herby-Leguminous
+Leguminous-Cucumber,Cucumber,Herby-Leguminous
+Jan-12,12,NLR-Jan
+Jan-Phenolic,Phenolic,Bitter-Jan
+Jan-Creosol,Creosol,Bitter-Jan
+Jan-11,11,NLR-Jan
+Herby-Leguminous,Leguminous,Enzymatic-Herby
+Herby-Alliaceous,Alliaceous,Enzymatic-Herby
+Harsh-Caustic,Caustic,Bitter-Harsh
+Harsh-Alkaline,Alkaline,Bitter-Harsh
+Fruity-Citrus,Citrus,Enzymatic-Fruity
+Fruity-Berry-like,Berry-like,Enzymatic-Fruity
+Fragrant-Coriander Seeds,Coriander Seeds,Flowery-Fragrant
+Fragrant-Cardamon Caraway,Cardamon Caraway,Flowery-Fragrant
+Flowery-Fragrant,Fragrant,Enzymatic-Flowery
+Flowery-Floral,Floral,Enzymatic-Flowery
+Floral-Tea Rose,Tea Rose,Flowery-Floral
+Floral-Coffee Blossom,Coffee Blossom,Flowery-Floral
+Enzymatic-Herby,Herby,
+Enzymatic-Fruity,Fruity,
+Enzymatic-Flowery,Flowery,
+Dry Distillation-Resinous,Resinous,
+Dry Distillation-NLR,NLR,
+Dry Distillation-Carbony,Carbony,
+Citrus-Lemon,Lemon,Fruity-Citrus
+Citrus-Apple,Apple,Fruity-Citrus
+Chocolatey-Vanilla-like,Vanilla-like,Sugar Browning-Chocolatey
+Chocolatey-Chocolate-like,Chocolate-like,Sugar Browning-Chocolatey
+Chocolate-like-Dark Chocolate,Dark Chocolate,Chocolatey-Chocolate-like
+Chocolate-like-Bakers,Bakers,Chocolatey-Chocolate-like
+Carmelly-Syrup-like,Syrup-like,Sugar Browning-Carmelly
+Carmelly-Candy-like,Candy-like,Sugar Browning-Carmelly
+Carbony-Smokey,Smokey,Dry Distillation-Carbony
+Carbony-Ashy,Ashy,Dry Distillation-Carbony
+Candy-like-Roasted Hazelnut,Roasted Hazelnut,Carmelly-Candy-like
+Candy-like-Roasted Almond,Roasted Almond,Carmelly-Candy-like
+Bland-Soft,Soft,Salt-Bland
+Bland-Neutral,Neutral,Salt-Bland
+Bitter-Jan,Jan,
+Bitter-Harsh,Harsh,
+Berry-like-Blackberry,Blackberry,Fruity-Berry-like
+Berry-like-Apricot,Apricot,Fruity-Berry-like
+Ashy-Charred,Charred,Carbony-Ashy
+Ashy-Burnt,Burnt,Carbony-Ashy
+Alliaceous-Onion,Onion,Herby-Alliaceous
+Alliaceous-Garlic,Garlic,Herby-Alliaceous
+Acidy-Piquant,Piquant,Sweet-Acidy
+Acidy-Nippy,Nippy,Sweet-Acidy
